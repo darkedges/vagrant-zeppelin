@@ -1,0 +1,5 @@
+---
+
+zeppelin_install_spark: yes
+zeppelin_install_sbt: yes
+zeppelin_install_data_starwarskid: yes

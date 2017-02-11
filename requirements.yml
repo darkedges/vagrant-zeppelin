@@ -1,0 +1,12 @@
+---
+
+- src: williamyeh.oracle-java
+- src: jgoodall.maven3
+- src: https://github.com/darkedges/ansible-spark
+  name: azavea.ansible-spark
+- src: https://github.com/darkedges/ansible-sbt
+  name: darkedges.sbt
+- src: https://github.com/darkedges/ansible-commonos
+  name: darkedges.commonos
+- src: https://github.com/darkedges/ansible-zeppelin
+  name: darkedges.zeppelin
