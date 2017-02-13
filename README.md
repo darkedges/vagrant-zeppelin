@@ -6,6 +6,8 @@ and has been updated to work on the latest version of Zeppelin.
 ## Installation
 
 ```bash
+git clone https://github.com/darkedges/vagrant-zeppelin.git
+cd vagrant-zeppelin
 vagrant up
 ansible-galaxy install -r ansible/requirements.yml
 ansible-playbook -i ansible/inventory ansible/deployZeppelin.yml
